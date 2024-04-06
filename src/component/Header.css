@@ -1,0 +1,15 @@
+.Appbar {
+    background-color: #2F323A;
+}
+
+.blue1{
+    background-color: #101418 !important}
+
+.red1{
+    background-color: #232c36 !important;
+}
+
+.hovered-row {
+    background-color:  #3b536c !important; 
+    cursor: pointer;
+  }

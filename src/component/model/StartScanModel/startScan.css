@@ -1,0 +1,21 @@
+.modal-header{
+    padding-left: 0px;
+    margin-right: 5px;
+    margin-left: -10px;
+    margin-top: -12px;
+} 
+
+.modal-title{
+    margin: 0;
+    line-height: 1.42857143;
+    font-size: 18px;
+    letter-spacing: -0.5px;
+    font-family: 'Inter', sans-serif;
+}
+
+.Horizontal-line{
+    width:1000px;
+    height: 1px;
+    background-color: red;
+
+}
